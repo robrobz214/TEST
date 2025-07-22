@@ -1,2 +1,2 @@
 # TEST
-Repository test 
+This is my first GitHub project.
